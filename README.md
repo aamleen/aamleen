@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aamleen Ahmed</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A BTech final year student from IIIT Delhi, specializing in ML/AI, Web Dev, Cloud, Database management, and DevOps, Research & Development Projects, aiming to make a transformative impact through innovative technological solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamleen&label=Profile%20views&color=0e75b6&style=flat" alt="aamleen" /> </p>
 
