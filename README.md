@@ -11,11 +11,11 @@
 
 - 💬 Expertise in **Distributed/High-Performance Computing, Machine Learning**
 
-- 📫 Reach me at **aamleen@googlemail.com**
+- 📫 Reach me at **aamleen@gmail.com**
 
 - 📄 My Resume: [https://drive.google.com/file/d/1dd5OsRFl8nN8r360bB99OudotE0wbVak/view?usp=sharing](https://drive.google.com/file/d/1dd5OsRFl8nN8r360bB99OudotE0wbVak/view?usp=sharing)
 
-- ⚡ Actively Looking to explore **SDE, DevOps, Cloud** Roles
+- ⚡ Actively Looking to explore **NLP, ML/AI, SDE, DevOps, Cloud** Roles
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
